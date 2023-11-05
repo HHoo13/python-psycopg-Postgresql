@@ -90,10 +90,13 @@ class DataBase:
 
 
 if __name__ == '__main__':
-    a = DataBase(1, 'var')
+    # some tests
+
+    
+    a = DataBase(1, 'test')
     # a.select_data_from_db
     # a.add_info_into_bd()
-    # a.add_message_into_bd('heeey')
+    # a.add_message_into_bd('test_message')
     # a.select_data_from_db()
     # print(a.data)
     # a.select_rows_from_db()
